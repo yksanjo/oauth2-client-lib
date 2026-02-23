@@ -1,5 +1,12 @@
 # oauth2-client-lib
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/oauth2-client-lib/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/oauth2-client-lib/actions)
+![License](https://img.shields.io/github/license/yksanjo/oauth2-client-lib)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/oauth2-client-lib)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/oauth2-client-lib)
+
 ## Detailed Description
 
 oauth2-client-lib is maintained as an industry-grade software project with production-ready engineering practices.  
